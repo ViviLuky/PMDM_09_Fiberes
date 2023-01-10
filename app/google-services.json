@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928568365796",
+    "project_id": "pmdm09fiberes",
+    "storage_bucket": "pmdm09fiberes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928568365796:android:efd7883111a422d35052f1",
+        "android_client_info": {
+          "package_name": "com.vivianafemenia.pmdm_09_fiberes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928568365796-lphlqj5n2f10u09hiv7d5e4pogmlgnve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVF6aJaUY2iYbMSM1K6nnDKiDYZSJg0Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928568365796-lphlqj5n2f10u09hiv7d5e4pogmlgnve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
